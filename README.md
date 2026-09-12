@@ -1,6 +1,8 @@
 # hare
 Hazard regression Use hare (polspline) With (In) R Software
 
+https://www.youtube.com/watch?v=IHj8xOEjda8
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
